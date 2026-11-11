@@ -1,0 +1,6 @@
+time,voltage,current
+0.0,5.02,0.21
+0.5,5.01
+1.0,4.98,0.24
+error,sensor,timeout
+1.5,4.95,0.25
